@@ -1,25 +1,5 @@
 [
   {
-    "name": "Gitea Service",
-    "url": "https://git.coderrrrr.site",
-    "icon": "https://icons.duckduckgo.com/ip3/git.coderrrrr.site.ico",
-    "slug": "gitea-service",
-    "status": "down",
-    "uptime": "45.73%",
-    "uptimeDay": "45.73%",
-    "uptimeWeek": "45.73%",
-    "uptimeMonth": "45.73%",
-    "uptimeYear": "45.73%",
-    "time": 16598,
-    "timeDay": 16598,
-    "timeWeek": 16598,
-    "timeMonth": 16598,
-    "timeYear": 16598,
-    "dailyMinutesDown": {
-      "2024-06-08": 0
-    }
-  },
-  {
     "name": "Vaultwarden",
     "url": "https://vw.coderrrrr.site",
     "icon": "https://icons.duckduckgo.com/ip3/vw.coderrrrr.site.ico",
@@ -30,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7907,
-    "timeDay": 7907,
-    "timeWeek": 7907,
-    "timeMonth": 7907,
-    "timeYear": 7907,
+    "time": 4444,
+    "timeDay": 4444,
+    "timeWeek": 4444,
+    "timeMonth": 4444,
+    "timeYear": 4444,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Go To Social Service",
-    "url": "https://gts.coderrrrr.site",
-    "icon": "https://icons.duckduckgo.com/ip3/gts.coderrrrr.site.ico",
-    "slug": "go-to-social-service",
-    "status": "down",
-    "uptime": "1.20%",
-    "uptimeDay": "1.20%",
-    "uptimeWeek": "1.20%",
-    "uptimeMonth": "1.20%",
-    "uptimeYear": "1.20%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-06-08": 0
-    }
   }
 ]
