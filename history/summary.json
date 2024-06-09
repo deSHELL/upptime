@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.coderrrrr.site.ico",
     "slug": "gitea-service",
     "status": "down",
-    "uptime": "1.77%",
-    "uptimeDay": "1.77%",
-    "uptimeWeek": "1.77%",
-    "uptimeMonth": "1.77%",
-    "uptimeYear": "1.77%",
+    "uptime": "1.65%",
+    "uptimeDay": "1.65%",
+    "uptimeWeek": "1.65%",
+    "uptimeMonth": "1.65%",
+    "uptimeYear": "1.65%",
     "time": 11259,
     "timeDay": 11259,
     "timeWeek": 11259,
     "timeMonth": 11259,
     "timeYear": 11259,
     "dailyMinutesDown": {
-      "2024-06-09": 464,
+      "2024-06-09": 540,
       "2024-06-08": 566
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://vw.coderrrrr.site",
     "icon": "https://icons.duckduckgo.com/ip3/vw.coderrrrr.site.ico",
     "slug": "vaultwarden",
-    "status": "up",
-    "uptime": "91.86%",
-    "uptimeDay": "91.86%",
-    "uptimeWeek": "91.86%",
-    "uptimeMonth": "91.86%",
-    "uptimeYear": "91.86%",
-    "time": 5552,
-    "timeDay": 5552,
-    "timeWeek": 5552,
-    "timeMonth": 5552,
-    "timeYear": 5552,
+    "status": "down",
+    "uptime": "93.03%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "93.03%",
+    "uptimeMonth": "93.03%",
+    "uptimeYear": "93.03%",
+    "time": 5310,
+    "timeDay": 5310,
+    "timeWeek": 5310,
+    "timeMonth": 5310,
+    "timeYear": 5310,
     "dailyMinutesDown": {
-      "2024-06-09": 90
+      "2024-06-09": 82
     }
   }
 ]
