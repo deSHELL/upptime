@@ -16,7 +16,7 @@
     "timeMonth": 9391,
     "timeYear": 9391,
     "dailyMinutesDown": {
-      "2024-06-10": 689,
+      "2024-06-10": 699,
       "2024-06-09": 1440,
       "2024-06-08": 566
     }
@@ -26,19 +26,19 @@
     "url": "https://vw.coderrrrr.site",
     "icon": "https://icons.duckduckgo.com/ip3/vw.coderrrrr.site.ico",
     "slug": "vaultwarden",
-    "status": "down",
-    "uptime": "49.77%",
-    "uptimeDay": "13.81%",
-    "uptimeWeek": "49.77%",
-    "uptimeMonth": "49.77%",
-    "uptimeYear": "49.77%",
-    "time": 6741,
-    "timeDay": 6028,
-    "timeWeek": 6741,
-    "timeMonth": 6741,
-    "timeYear": 6741,
+    "status": "up",
+    "uptime": "49.61%",
+    "uptimeDay": "13.26%",
+    "uptimeWeek": "49.61%",
+    "uptimeMonth": "49.61%",
+    "uptimeYear": "49.61%",
+    "time": 6636,
+    "timeDay": 6049,
+    "timeWeek": 6636,
+    "timeMonth": 6636,
+    "timeYear": 6636,
     "dailyMinutesDown": {
-      "2024-06-10": 531,
+      "2024-06-10": 540,
       "2024-06-09": 863
     }
   }
