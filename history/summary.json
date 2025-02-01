@@ -4,19 +4,19 @@
     "url": "https://git.coderrrrr.site",
     "icon": "https://icons.duckduckgo.com/ip3/git.coderrrrr.site.ico",
     "slug": "cdgs-git",
-    "status": "down",
-    "uptime": "70.51%",
-    "uptimeDay": "70.51%",
-    "uptimeWeek": "70.51%",
-    "uptimeMonth": "70.51%",
-    "uptimeYear": "70.51%",
-    "time": 408,
-    "timeDay": 408,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "status": "up",
+    "uptime": "19.10%",
+    "uptimeDay": "19.10%",
+    "uptimeWeek": "19.10%",
+    "uptimeMonth": "19.10%",
+    "uptimeYear": "19.10%",
+    "time": 552,
+    "timeDay": 552,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {
-      "2025-02-01": 9
+      "2025-02-01": 94
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://auth.coderrrrr.site",
     "icon": "https://icons.duckduckgo.com/ip3/auth.coderrrrr.site.ico",
     "slug": "cdci-auth",
-    "status": "down",
-    "uptime": "70.65%",
-    "uptimeDay": "70.65%",
-    "uptimeWeek": "70.65%",
-    "uptimeMonth": "70.65%",
-    "uptimeYear": "70.65%",
-    "time": 1384,
-    "timeDay": 1384,
-    "timeWeek": 1384,
-    "timeMonth": 1384,
-    "timeYear": 1384,
+    "status": "up",
+    "uptime": "19.03%",
+    "uptimeDay": "19.03%",
+    "uptimeWeek": "19.03%",
+    "uptimeMonth": "19.03%",
+    "uptimeYear": "19.03%",
+    "time": 2297,
+    "timeDay": 2297,
+    "timeWeek": 2297,
+    "timeMonth": 2297,
+    "timeYear": 2297,
     "dailyMinutesDown": {
-      "2025-02-01": 9
+      "2025-02-01": 94
     }
   }
 ]
