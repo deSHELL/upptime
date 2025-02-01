@@ -3,10 +3,10 @@ owner: deSHELL # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Gitea Service
+  - name: CDGS Git
     url: https://git.coderrrrr.site
-  - name: Vaultwarden
-    url: https://vw.coderrrrr.site
+  - name: CDCI Auth
+    url: https://auth.coderrrrr.site
   # - name: Go To Social Service
   #   url: https://gts.coderrrrr.site
 
@@ -23,7 +23,7 @@ status-website:
     - title: Status
       href: /
     - title: Human Reporting
-      href: mailto:dev@deva.is-cool.dev?subject=%5BSERVICE%20DOWN!%5D%20One%20of%20your%20services%20is%20DOWN!%20-%20Anonymous%20Helper&body=Hey%20Coderrrrr%2C%20wanted%20to%20say%20that%20one%20of%20your%20services%20is%20DOWN!%0AFIX%20IT%20IMMEDIATELY!!!
+      href: mailto:admin@coderrrrr.site?subject=%5BSERVICE%20DOWN!%5D%20One%20of%20your%20services%20is%20DOWN!%20-%20Anonymous%20Helper&body=Hey%20Coderrrrr%2C%20wanted%20to%20say%20that%20one%20of%20your%20services%20is%20DOWN!%0AFIX%20IT%20IMMEDIATELY!!!
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
